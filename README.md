@@ -10,7 +10,7 @@
 
 <!-- tocstop -->
 
-Ruby Sample App on OpenShift (V3) 
+Ruby Sample App on OpenShift (V4) 
 ============================
 
 This is a basic ruby application for OpenShift v3 that you can use as a starting point to develop your own application and deploy it on an [OpenShift](https://github.com/openshift/origin) cluster.
